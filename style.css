@@ -105,8 +105,8 @@ a {
 }
 .results__item:hover {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-    transform: scale(1.09); /* Increase size on hover */
-    background-color: rgb(49, 139, 204); /* Change background color on hover */
+    transform: scale(1.09); 
+    background-color: rgb(49, 139, 204); 
 }
 .results__item__title {
     font-family: 'Zilla Slab', serif;
@@ -119,7 +119,7 @@ a {
 }
 .results__item:hover .results__item__title,
 .results__item:hover .results__item__intro {
-    color: white; /* Change text color to white on hover */
+    color: white; 
     font-size: medium;
     font-weight: bolder;
 }
